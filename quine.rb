@@ -1,1 +1,1 @@
-puts File.read("quine.rb")
+puts File.read(__FILE__)
